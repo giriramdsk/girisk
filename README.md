@@ -1,4 +1,4 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" height=400 align='center'>
+
 <h1 align="center">Hi 👋, I'm Giri</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Code" align='right' width=400>
