@@ -4,7 +4,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Code" align='right' width=400>
 - 🔭 I’m currently working on [Validus](https://platform.validus.sg)
 
-- 💬 Ask me about **Full stack related to MERN-Middleware**
+- 💬 Ask me about **Full stack related to MEAN-Middleware**
 
 - 📫 How to reach me **giriramdsk@gmail.com**
 
